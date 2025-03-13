@@ -1,0 +1,2 @@
+# hello.js
+Hello, JSR!
